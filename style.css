@@ -7,20 +7,20 @@ stitle-blue{}
 
 
 
-<?--القوائم المرقمة -->
+/*القوائم المرقم*/
 order-nl{}
 order-ll{}
 
 footer-nl{}
 
-<?--الغير مرقمة  -->
+/*الغير مرقمة*/
 dis-l{}
 cir-l{}
 
-<?-- عناوين الهيئات الداعمة للمشروع addresses -->
+/* عناوين الهيئات الداعمة للمشروع addresses */
 
 
-<?--tables  -->
+/*tables  */
 table-green{}
 #table-blue{}
 
